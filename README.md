@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NDANYL
 - 👀 I’m interested in React & Node JS
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on problem solving IRL
+- 💞️ I’m looking to collaborate on problem solving projects IRL
 - 📫 mail to nmdanyls@gmail.com
 
 <!---
