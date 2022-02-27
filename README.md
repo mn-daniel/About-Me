@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NDANYL
+- 👋 Hi, I’m @DANYL 
 - 👀 I’m interested in React & Node JS
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on problem solving projects IRL
